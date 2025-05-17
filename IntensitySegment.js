@@ -83,10 +83,8 @@ function IntensitySegments() {
     if (this.recordModified) {
       array = Array.from(this.map.entries()).sort((a, b) => a[0] - b[0]);
       this.segmentsCache = array;
-      console.log("read new data");
     } else {
       array = this.segmentsCache;
-      console.log("read cache");
     }
 
     let result = [];
