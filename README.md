@@ -10,3 +10,7 @@ npm install
 🧪 Running Tests
 
 npm test
+
+👤 Author
+
+Xingjian Wang
