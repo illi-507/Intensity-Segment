@@ -1,7 +1,7 @@
 /**
  * A class that tracks and manipulates intensity segments.
  * Internally uses a difference map to manage range updates.
- * Supports update functions:`add` and `set`.
+ * Supports update functions:`add` and `set`
  *
  * @class
  */
